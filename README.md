@@ -13,6 +13,7 @@ As for determining the optimal location to establish a new restaurant, several d
 
 In summary, this project provides valuable insights for individuals who are just getting started with establishing a new restaurant or those who aspire to own a restaurant in San Diego. Although there is not much financial data for these restaurants (ex. budgets, profits, revenues, etc), the available data set from this project and its findings nevertheless provide a good starting point for achieving success in San Diego's competitive food industry. 
 
-# Intructions for Downloading Data Sets
-1. Go to the "main" branch and view the list of data sets. Name of data sets: sd_demographics.xlsx, sd_restaurant_listings.xlsx, sd_restaurant_reviews.xlsx
-2. Click on a dataset, then click "view raw." This will prompt the data set to download. 
+# Intructions for Downloading Code and Data Sets
+1. Go to the "main" branch and view listed files.
+2. Click on a file, then click "view raw." This will prompt the code or data set to download.
+Note: There are three versions of the code: PDF, Jupyter Notebook, and a .py file. All three contain the same code.
