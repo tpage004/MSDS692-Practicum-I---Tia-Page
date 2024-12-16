@@ -15,4 +15,4 @@ In summary, this project provides valuable insights for individuals who are just
 
 # Intructions for Downloading Code and Data Sets
 1. Go to the "Data" folder and view the listed files.
-2. Click on a file, then click "view raw." This will prompt the code or data set to download.
+2. Click on a file, then click "download raw file." This will prompt the data set to download.
